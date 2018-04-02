@@ -1,0 +1,11 @@
+Usage:
+
+1. Create docker image
+
+$ make image
+
+2. Go to shell
+
+$ make sh
+
+3. Have a fun!
